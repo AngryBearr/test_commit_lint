@@ -1,2 +1,2 @@
 # test_commit_lint
-test commitlint repo
+A repo to test commit lint and husky.
