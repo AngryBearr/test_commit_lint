@@ -1,0 +1,17 @@
+{
+  "name": "test_commit_lint",
+  "version": "0.0.0",
+  "description": "test commit lint and convetional commits",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "test": "npm run lint"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "husky": "^8.0.0"
+  }
+}
