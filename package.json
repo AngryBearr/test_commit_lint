@@ -4,8 +4,10 @@
   "description": "test commit lint and convetional commits",
   "main": "index.js",
   "scripts": {
-    "prepare": "husky install",
-    "test": "npm run lint"
+    "prepare": "husky install"
+  },
+  "husky": {
+    "hooks": {}
   },
   "author": "",
   "license": "ISC",
