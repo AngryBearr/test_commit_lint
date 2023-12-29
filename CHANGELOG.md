@@ -2,11 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
-## [unreleased]
+## [0.0.2](https://github.com/AngryBearr/test_commit_lint/compare/v0.0.1..v0.0.2) - 2023-12-29
 
 ### ⛰️  Features
 
 - *(git-cliff)* Changed config (stole it from cliff repo) - ([ba0fd72](https://github.com/AngryBearr/test_commit_lint/commit/ba0fd72e603d88d9a32cf2e2c214af3e2e5c1dc8))
+- *(git_cliff)* Another change to config so it would reflect the repo - ([192faa4](https://github.com/AngryBearr/test_commit_lint/commit/192faa48f062f6611393fe3ee0c52da771d3f9d9))
+
+### 📚 Documentation
+
+- Changed readme a bit - ([7853cd6](https://github.com/AngryBearr/test_commit_lint/commit/7853cd6a7171a011d95cfcebd34daa748f19eba5))
 
 ## [0.0.1](https://github.com/AngryBearr/test_commit_lint/compare/v0.0.0..v0.0.1) - 2023-12-28
 
